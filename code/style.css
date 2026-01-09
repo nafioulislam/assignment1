@@ -215,3 +215,39 @@ ul {
     font-size: 14px;
     opacity: .5;
 }
+
+#s4{
+    background-color: #F7F6F2;
+    text-align: center;
+    
+    width: 1500px;
+    height: 350px;
+    padding-top: 180px;
+    padding-left: 100px;
+    padding-right: 90px;
+    margin-left: 100px;
+
+}
+#s4button{
+    
+    padding-top: 5px;
+}
+#s4button-span{
+    padding-top: 5px;
+}
+#s4button{
+    /* background-color: #55b67e;
+    display: inline;
+    text-align: center; */
+    display:  inline-flex;
+    border: none;
+    background-color: #50a875;
+    padding: 2px 10px 10px 10px;
+    border-radius: 4px;
+    color: white;
+    gap: 5px;
+    
+}
+#s4img{
+    padding-top: 3px;
+}
