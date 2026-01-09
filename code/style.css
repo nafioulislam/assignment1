@@ -1,0 +1,28 @@
+body{
+    margin: 0%;
+}
+
+nav{
+    display: flex;
+    gap: 310px;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 120px 16px 120px;
+}
+ul{
+    display: flex;
+    gap: 32px;
+    list-style: none;
+}
+
+    
+
+    #nav-button{
+        
+        border: none;
+        background-color: #50a875;
+        border-radius: 4px;
+        max-height: 25px;
+        padding: 2px 25px 10px 10px;
+        margin-top: 10px;
+    }
